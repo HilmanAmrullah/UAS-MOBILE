@@ -1,6 +1,6 @@
 <h1><p align="center"> Project UAS Pemrograman Mobile 2</h1><br>
 
-##**Project KitaMart**<br>
+## **Absensi Online**<br>
 
 | No.| Nama Kelompok | NIM | Kelas |
 |----|------------|--------|-------|
